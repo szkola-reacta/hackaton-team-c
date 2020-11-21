@@ -3,7 +3,7 @@ import React from 'react';
 import Nav from './Nav';
 import Sidebar from './Sidebar';
 import MainContent from './MainContent';
-import Footer from './Footer';
+import Footer from './Footer/';
 
 class Shop extends React.Component {
     state = {  }
