@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "Najciekawsze produkty objęte wyprzedażą",
+    "image": "url(img/Sale_4.jpg)"
+  },
+  {
+    "id": 2,
+    "title": "Buty objęte wyprzedażą",
+    "image": "url(img/Sale_1.jpg)"
+  },
+  {
+    "id": 3,
+    "title": "Sprzęt objęty wyprzedażą",
+    "image": "url(img/Sale_2.jpg)"
+  },
+  {
+    "id": 4,
+    "title": "Sprzęt objęty wyprzedażą",
+    "image": "url(img/Sale_3.jpg)"
+  }
+]
