@@ -1,0 +1,14 @@
+ul{
+    list-style-type:none;
+    
+}
+
+ul li a{
+    color:black;
+    border-bottom:3px solid white;
+}
+
+ul li a:hover{
+    color:black;
+    border-bottom:3px solid black;
+}
